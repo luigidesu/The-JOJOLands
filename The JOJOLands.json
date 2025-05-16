@@ -248,7 +248,9 @@
       "volume": "",
       "last_updated": "1747580400",
       "groups": {
-        "Plastic Tears": "/proxy/api/imgur/chapter/2UZ80MQ"
+        "Plastic Tears": [
+          "https://nhentai.net/g/14892/"
+        ]
       }
     }
   }
