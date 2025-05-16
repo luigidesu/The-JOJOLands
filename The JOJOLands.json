@@ -238,7 +238,9 @@
       "volume": "",
       "last_updated": "1742223600",
       "groups": {
-        "Plastic Tears": "/proxy/api/imgur/chapter/iO5ptNU"
+        "Plastic Tears": [
+          "https://catbox.moe/c/tgs9g5"
+        ]
       }
     },
     "25": {
