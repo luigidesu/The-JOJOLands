@@ -4,5 +4,46 @@
   "artist": "Hirohiko Araki",
   "author": "Hirohiko Araki",
   "cover": "https://mangadex.org/covers/7a9d76c3-42b9-4bcf-81d7-ad307d2ea971/f069134f-9303-4315-9eba-646d371ff835.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Bienvenidos a Morioh",
+      "volume": "1",
+      "last_updated": "1779462000",
+      "groups": {
+        "Plastic Tears": "/proxy/api/imgchest/chapter/vj4jjx6dx48"
+      }
+    },
+    "2": {
+      "title": "Soft & Wet, Parte 1",
+      "volume": "1",
+      "last_updated": "1779462000",
+      "groups": {
+        "Plastic Tears": "/proxy/api/imgchest/chapter/lqyeo8zpq4d"
+      }
+    },
+    "3": {
+      "title": "Soft & Wet, Parte 2",
+      "volume": "1",
+      "last_updated": "1779462000",
+      "groups": {
+        "Plastic Tears": "/proxy/api/imgchest/chapter/vj4jjx6wx48"
+      }
+    },
+    "4": {
+      "title": "Soft & Wet, Parte 3",
+      "volume": "1",
+      "last_updated": "1779462000",
+      "groups": {
+        "Plastic Tears": "/proxy/api/imgchest/chapter/qe4gka8xj7j"
+      }
+    },
+    "5": {
+      "title": "Soft & Wet, Parte 4",
+      "volume": "1",
+      "last_updated": "1779462000",
+      "groups": {
+        "Plastic Tears": "/proxy/api/imgchest/chapter/pg733m8bj7r"
+      }
+    }
+  }
 }
