@@ -3,7 +3,7 @@
   "description": "**Esta es la historia de cómo se rompe una \"maldición\".**\n\n**Morioh, Ciudad S, 2011.** Tras el gran terremoto del 11 de marzo, del suelo han brotado unas extrañas elevaciones de tierra a las que llaman los \"Ojos del Muro\". Cerca de ellas, la universitaria **Yasuho Hirose** encuentra a un joven enterrado vivo que no recuerda nada, ni siquiera su propio nombre: solo lleva encima un sombrero de marinero y una marca de nacimiento con forma de estrella en el hombro. Decidida a ayudarlo, Yasuho lo apoda \"Josuke\".\n\nLa investigación los conduce hasta los **Higashikata**, la acaudalada familia dueña de la Frutería Higashikata, que acoge a Josuke bajo su techo... y que arrastra desde hace generaciones una enfermedad hereditaria capaz de convertir *la piel en piedra*. Cuanto más escarba Josuke en su pasado, más se enreda en los secretos de sus anfitriones, en la existencia oculta de *criaturas que no son humanas* y en el rastro de una fruta que promete curarlo todo... *a cambio de un precio equivalente*.\n\n[Versión a Blanco y Negro](https://waa.ai/jojolion)\n[Versión a Color](https://waa.ai/jojolioncolor)\n\n[plastictears.com](https://plastictears.com/)",
   "artist": "Hirohiko Araki",
   "author": "Hirohiko Araki",
-  "cover": "https://cdn.imgchest.com/files/877ce060eaa4.jpg",
+  "cover": "https://cdn.imgchest.com/files/66db69ad1fea.jpg",
   "chapters": {
     "1": {
       "title": "Bienvenidos a Morioh",
@@ -75,6 +75,38 @@
       "last_updated": "1782313200",
       "groups": {
         "Plastic Tears": "/proxy/api/imgchest/chapter/5xy2jk2n37l"
+      }
+    },
+    "10": {
+      "title": "California King Bed, Parte 3",
+      "volume": "3",
+      "last_updated": "1786546800",
+      "groups": {
+        "Plastic Tears": "/proxy/api/imgchest/chapter/na7kl2x3qy8"
+      }
+    },
+    "11": {
+      "title": "Árbol genealógico",
+      "volume": "3",
+      "last_updated": "1786546800",
+      "groups": {
+        "Plastic Tears": "/proxy/api/imgchest/chapter/na7kl2zxqy8"
+      }
+    },
+    "12": {
+      "title": "“Paisley Park” y “Born This Way”, Parte 1",
+      "volume": "3",
+      "last_updated": "1786546800",
+      "groups": {
+        "Plastic Tears": "/proxy/api/imgchest/chapter/5xy2vxpz97l"
+      }
+    },
+    "13": {
+      "title": "“Paisley Park” y “Born This Way”, Parte 2",
+      "volume": "3",
+      "last_updated": "1786546800",
+      "groups": {
+        "Plastic Tears": "/proxy/api/imgchest/chapter/md7ordggr7p"
       }
     }
   }
